@@ -1,0 +1,146 @@
+﻿Category,SubCategory
+Art ,Art
+Film & Video ,Short Film
+Fashion ,Fashion
+Publishing ,Poetry
+Publishing ,Nonfiction
+Film & Video ,Narrative Film
+Design ,Product Design
+Technology ,Hardware
+Photography ,Photography
+Technology ,Technology
+Publishing ,Art Book
+Art ,Performance Art
+Design ,Design
+Film & Video ,Documentary
+Food ,Food
+Technology ,Open Software
+Music ,Indie Rock
+Journalism ,Journalism
+Publishing ,Radio & Podcast
+Film & Video ,Film & Video
+Games ,Tabletop Games
+Art ,Illustration
+Games ,Video Games
+Art ,Public Art
+Music ,Country & Folk
+Theater ,Theater
+Crafts ,Crafts
+Music ,Music
+Music ,Rock
+Art ,Painting
+Comics ,Comics
+Film & Video ,Webseries
+Publishing ,Children's Book
+Art ,Sculpture
+Games ,Games
+Music ,Electronic Music
+Publishing ,Fiction
+Film & Video ,Animation
+Music ,Jazz
+Art ,Mixed Media
+Music ,World Music
+Music ,Hip-Hop
+Music ,Pop
+Dance ,Dance
+Publishing ,Periodical
+Publishing ,Publishing
+Art ,Conceptual Art
+Design ,Graphic Design
+Music ,Metal
+Music ,Classical Music
+Art ,Digital Art
+Film & Video ,Shorts
+Technology ,Software
+Technology ,3D Printing
+Comics ,Graphic Novels
+Photography ,Photobooks
+Food ,Farms
+Photography ,Nature
+Fashion ,Accessories
+Food ,Food Trucks
+Technology ,Wearables
+Technology ,DIY Electronics
+Games ,Live Games
+Fashion ,Footwear
+Games ,Playing Cards
+Fashion ,Apparel
+Photography ,Animals
+Comics ,Comic Books
+Food ,Bacon
+Dance ,Performances
+Music ,Punk
+Games ,Mobile Games
+Technology ,Space Exploration
+Technology ,Flight
+Technology ,Gadgets
+Technology ,Robots
+Theater ,Plays
+Film & Video ,Action
+Technology ,Camera Equipment
+Technology ,Apps
+Games ,Puzzles
+Technology ,Web
+Food ,Drinks
+Comics ,Anthologies
+Design ,Typography
+Food ,Restaurants
+Design ,Architecture
+Music ,Blues
+Fashion ,Jewelry
+Theater ,Musical
+Film & Video ,Science Fiction
+Publishing ,Zines
+Food ,Farmer's Markets
+Design ,Interactive Design
+Photography ,Fine Art
+Film & Video ,Horror
+Film & Video ,Fantasy
+Photography ,People
+Film & Video ,Drama
+Publishing ,Young Adult
+Comics ,Events
+Comics ,Webcomics
+Music ,R&B
+Film & Video ,Television
+Food ,Small Batch
+Food ,Community Gardens
+Fashion ,Childrenswear
+Photography ,Places
+Film & Video ,Experimental
+Design ,Civic Design
+Film & Video ,Romance
+Dance ,Residencies
+Games ,Gaming Hardware
+Film & Video ,Music Videos
+Film & Video ,Festivals
+Music ,Faith
+Film & Video ,Comedy
+Publishing ,Academic
+Film & Video ,Family
+Publishing ,Literary Journals
+Fashion ,Ready-to-wear
+Fashion ,Couture
+Art ,Textiles
+Music ,Chiptune
+Theater ,Immersive
+Dance ,Spaces
+Music ,Kids
+Food ,Cookbooks
+Music ,Latin
+Dance ,Workshops
+Fashion ,Pet Fashion
+Art ,Video Art
+Food ,Vegan
+Film & Video ,Movie Theaters
+Journalism ,Print
+Art ,Installations
+Art ,Ceramics
+Film & Video ,Thrillers
+Crafts ,Candles
+Publishing ,Translations
+Publishing ,Calendars
+Journalism ,Audio
+Technology ,Sound
+Crafts ,Knitting
+Technology ,Fabrication Tools
